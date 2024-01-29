@@ -1,1 +1,0 @@
-# Listas-de-DNS-en-Pi-Hole
